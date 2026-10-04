@@ -1,4 +1,4 @@
-const API="/api";
+const API="https://placementportal-production-733c.up.railway.app/api";
 let token=localStorage.getItem("pp_token");
 let currentUser=JSON.parse(localStorage.getItem("pp_user")||"null");
 const app=document.getElementById("app"), nav=document.getElementById("nav"), navActions=document.getElementById("navActions");
