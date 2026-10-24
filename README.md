@@ -1,7 +1,29 @@
 # CampusHire Placement Portal
 
 A college Placement Portal prototype built with **HTML, CSS, JavaScript, Bootstrap 5, Node.js, Express.js and MySQL**.
+# CampusHire Placement Portal
 
+A college Placement Portal prototype built with **HTML, CSS, JavaScript, Bootstrap 5, Node.js, Express.js and MySQL**.
+
+## 🌐 Live Website
+
+**Deployed Link:** [https://placementportal-e6j4.onrender.com](https://placementportal-e6j4.onrender.com)
+
+**GitHub Repository:** [https://github.com/amruthasandaboyina/PlacementPortal](https://github.com/amruthasandaboyina/PlacementPortal)
+
+> Note: The website is deployed on Render. Database connectivity is still being configured, so some features, such as login and registration, may not work yet.
+
+## Features
+- Student, Company/Recruiter and Admin roles
+- Responsive Bootstrap + custom CSS UI
+- Client-side and server-side validation
+- ES6 JavaScript using arrow functions, Promises/fetch and async/await
+- MySQL database with CRUD-oriented REST APIs
+- JWT authentication with 8-hour token expiry
+- Job search, eligibility checking and online applications
+- Recruiter shortlisting/status updates
+- Admin placement statistics
+- Postman collection and documentation
 ## Features
 - Student, Company/Recruiter and Admin roles
 - Responsive Bootstrap + custom CSS UI
